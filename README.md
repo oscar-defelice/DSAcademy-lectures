@@ -1,9 +1,9 @@
 <a href="https://oscar-defelice.github.io"><img src="https://user-images.githubusercontent.com/49638680/98257151-9f5e5800-1f7f-11eb-9f42-479a4fc6cf24.png" height="125" align="right" /></a>
 
-# DSAcademy-lectures
+# Data Science Academy lectures
 Here is the material for a course I will be giving in a Master of Data Science and AI for junior Data Scientists.
 
-This is somehow a prequel of the other modules on 
+This is somehow a _prequel_ of the other modules on 
 1. [Statistical Learning](https://github.com/oscar-defelice/ML-lectures) 📈
 2. [Deep Learning](https://github.com/oscar-defelice/DeepLearning-lectures) 🦾
 3. [Time Series](https://github.com/oscar-defelice/TimeSeries-lectures) ⌛
