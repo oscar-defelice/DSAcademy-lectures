@@ -52,5 +52,5 @@ I also have a [github profile](https://github.com/oscar-defelice) where I store 
 If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
 
 <p align="center">
-  <a href="https://github.com/sponsors/oscar-defelice"><img src="Lecture_src/images/breakfast.gif"></a>
+  <a href="https://github.com/sponsors/oscar-defelice"><img src="https://raw.githubusercontent.com/oscar-defelice/DSAcademy-lectures/master/Lectures_src/images/breakfast.gif"></a>
 </p>
