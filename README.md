@@ -1,3 +1,5 @@
+<a href="https://oscar-defelice.github.io"><img src="https://user-images.githubusercontent.com/49638680/98257151-9f5e5800-1f7f-11eb-9f42-479a4fc6cf24.png" height="125" align="right" /></a>
+
 # DSAcademy-lectures
 Here is the material for a course I will be giving in a Master of Data Science and AI for junior Data Scientists.
 
