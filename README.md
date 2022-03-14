@@ -5,9 +5,9 @@ Here is the material for a course I will be giving in a Master of Data Science a
 
 This is somehow a _prequel_ of the other modules on 
 1. [Statistical Learning](https://github.com/oscar-defelice/ML-lectures) 📈
-2. [Deep Learning](https://github.com/oscar-defelice/DeepLearning-lectures) 🦾
-3. [Time Series](https://github.com/oscar-defelice/TimeSeries-lectures) ⌛
-4. [Computer Vision Hands-On](https://github.com/oscar-defelice/Computer-Vision-Hands-on) 🕶️
+2. [Deep Learning](https://oscar-defelice.github.io/DeepLearning-lectures) 🦾
+3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
+4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 🕶️
 
 ## Install requirements
 As usual, it is advisable to create a virtual environment to isolate dependencies.
