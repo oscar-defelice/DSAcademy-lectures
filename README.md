@@ -4,7 +4,7 @@
 Here is the material for a course I will be giving in a Master of Data Science and AI for junior Data Scientists.
 
 This is somehow a _prequel_ of the other modules on 
-1. [Statistical Learning](https://github.com/oscar-defelice/ML-lectures) 📈
+1. [Statistical Learning](https://oscar-defelice.github.io/ML-lectures) 📈
 2. [Deep Learning](https://oscar-defelice.github.io/DeepLearning-lectures) 🦾
 3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
 4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 🕶️
