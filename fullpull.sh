@@ -1,7 +1,7 @@
 #!/bin/bash
 date +"Date : %d/%m/%Y Time : %H.%M.%S"
 
-REPO_URL="https://github.com/oscar-defelice/DeepLearning-lectures/"
+REPO_URL="https://github.com/oscar-defelice/DSAcademy-lectures/"
 ################################################################################
 # Help                                                                         #
 ################################################################################
