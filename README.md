@@ -3,11 +3,11 @@
 # Data Science Academy lectures
 Here is the material for a course I will be giving in a Master of Data Science and AI for junior Data Scientists.
 
-This is somehow a _prequel_ of the other modules on 
-1. [Statistical Learning](https://github.com/oscar-defelice/ML-lectures) 📈
-2. [Deep Learning](https://github.com/oscar-defelice/DeepLearning-lectures) 🦾
-3. [Time Series](https://github.com/oscar-defelice/TimeSeries-lectures) ⌛
-4. [Computer Vision Hands-On](https://github.com/oscar-defelice/Computer-Vision-Hands-on) 🕶️
+This is somehow a _prequel_ of the other modules on
+1. [Statistical Learning](https://oscar-defelice.github.io/ML-lectures) 📈
+2. [Deep Learning](https://oscar-defelice.github.io/DeepLearning-lectures) 🦾
+3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
+4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 👀
 
 ## Install requirements
 As usual, it is advisable to create a virtual environment to isolate dependencies.
@@ -30,7 +30,7 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
 
 ---
 
-### Your lecturer 👨‍🏫 
+### Your lecturer 👨‍🏫
 #### [Oscar de Felice](https://oscar-defelice.github.io/)
 
 <a href="https://oscar-defelice.github.io/" target="_blank" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
