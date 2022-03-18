@@ -28,6 +28,9 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
 <a href = "https://mybinder.org/v2/gh/oscar-defelice/DSAcademy-lectures/HEAD?urlpath=lab"> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
 
+## Contents of lectures
+You can find the list of the arguments and some relevant material [here](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src).
+
 ---
 
 ### Your lecturer 👨‍🏫
@@ -35,7 +38,7 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
 
 <a href="https://oscar-defelice.github.io/" target="_blank" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
 
-I am a theoretical physicist, a passioned programmer and an AI curious.
+I am a theoretical physicist, a passionate programmer and an AI curious.
 
 I write medium articles (with very little amount of regularity), you can read them [here](https://oscar-defelice.medium.com/).
 I also have a [github profile](https://github.com/oscar-defelice) where I store my personal open-source projects.
