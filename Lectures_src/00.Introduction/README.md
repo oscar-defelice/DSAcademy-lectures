@@ -23,13 +23,13 @@ We are going to recall briefly the basic concepts of Statistics.
 A discussion on how to build the simplest machine learning algorithm.
 
 <p align="center">
-    <img width="1234" alt="image" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2018/03/knn3.png">
+    <img width="1234" alt="image" src="https://user-images.githubusercontent.com/49638680/159125703-a6f683d0-5a03-43e2-9ae5-293c86fe4eb7.png">
 </p>
 
 ### [Linear regression](https://github.com/oscar-defelice/DSAcademy-lectures/blob/master/Lectures_src/00.Introduction/03.LinearRegression.ipynb)
 
-A first example of hypotesis-based machine learning algorithm.
+A first example of hypothesis-based machine learning algorithm.
 
 <p align="center">
-    <img width="1234" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/2560px-Linear_regression.svg.png">
+    <img width="1116" alt="image" src="https://user-images.githubusercontent.com/49638680/159125919-9b7e2143-9670-48ed-bbc9-9f6c811290ef.png">
 </p>
