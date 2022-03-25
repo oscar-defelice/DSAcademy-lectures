@@ -18,7 +18,15 @@ Finally, we also focus on the general lifecycle of a Data Science model.
 
 ## [Pandas and data visualisation](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/01.Pandas) 🐼
 
+In this section we introduce one of the most famous basic tools for data analysis.
+Furthermore, we focus on visualisation and simple data manipulation to extract insights from data.
+
+In particular, we play with pandas dataframes, filters and matplotlib plots.
+
 ## [Data pipeline and data treatment](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/02.Data_preprocessing) 📊
+
+This module is about data pipelines, data preprocessing and techniques to encode non-numerical features.
+In particular we build our first data pipeline, trying to extract features to feed a machine learning model properly, guided by Exploratory Data Analysis.
 
 ## [Supervised classifier](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/03.Supervised_learning) 🦾
 
