@@ -1,0 +1,10 @@
+sale_id,c_id,p_id,product,qty,store
+1,2,3,Monitor,2,ABC
+2,2,4,CPU,1,DEF
+3,1,3,Monitor,3,ABC
+4,4,2,RAM,2,DEF
+5,2,3,Monitor,3,ABC
+6,3,3,Monitor,2,DEF
+7,2,2,RAM,3,ABC
+8,3,2,RAM,2,DEF
+9,2,3,Monitor,2,ABC
