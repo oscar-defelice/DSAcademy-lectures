@@ -1,0 +1,401 @@
+Gender,Student,Married,Ethnicity,Rating,Age,Income,Education Years
+Male,No,Yes,Caucasian,Low,34,14.890999999999998,11
+Female,Yes,Yes,Asian,Premium,82,106.025,15
+Male,No,No,Asian,Premium,71,104.59299999999999,11
+Female,No,No,Asian,Premium,36,148.924,11
+Male,No,Yes,Caucasian,Medium,68,55.882,16
+Male,No,No,Caucasian,Premium,77,80.18,10
+Female,No,No,African American,Low,37,20.996,12
+Male,No,No,Asian,Premium,87,71.408,9
+Female,No,No,Caucasian,Low,66,15.125,13
+Female,Yes,Yes,African American,Premium,41,71.061,19
+Male,No,Yes,Caucasian,Premium,30,63.095,14
+Male,No,No,Caucasian,Very low,64,15.045,16
+Female,No,Yes,Asian,High,57,80.616,7
+Male,No,Yes,Caucasian,Premium,49,43.681999999999995,9
+Female,No,No,African American,Low,75,19.144000000000002,13
+Female,No,Yes,African American,Very low,57,20.089000000000002,15
+Female,No,Yes,African American,Low,73,53.598,17
+Female,No,Yes,Asian,Medium,69,36.496,15
+Female,No,Yes,Asian,High,28,49.57,9
+Male,No,No,Asian,Premium,44,42.07899999999999,9
+Female,No,No,Asian,Low,63,17.7,16
+Female,No,No,Caucasian,High,72,37.348,17
+Male,No,Yes,African American,Very low,61,20.102999999999998,10
+Male,No,Yes,African American,High,48,64.027,8
+Female,No,No,Caucasian,Very low,57,10.742,15
+Female,No,Yes,African American,Medium,25,14.09,16
+Female,Yes,No,Caucasian,Low,44,42.471000000000004,12
+Male,No,No,African American,Medium,44,32.793,16
+Female,No,Yes,African American,Premium,41,186.63400000000001,14
+Female,No,No,Caucasian,High,55,26.813000000000002,16
+Female,No,Yes,Caucasian,High,47,34.141999999999996,5
+Male,No,Yes,Asian,Very low,43,28.941,16
+Female,No,No,Caucasian,Premium,48,134.181,13
+Male,No,Yes,Caucasian,Very low,30,31.366999999999997,10
+Female,No,Yes,Asian,Very low,25,20.15,14
+Female,Yes,No,Caucasian,Low,49,23.35,12
+Female,No,Yes,Caucasian,High,71,62.413000000000004,11
+Female,No,Yes,Caucasian,High,69,30.006999999999998,9
+Female,No,No,Caucasian,Medium,25,11.795,10
+Male,No,Yes,Caucasian,Low,47,13.647,14
+Female,No,No,African American,Low,54,34.95,14
+Male,Yes,Yes,African American,Premium,66,113.65899999999999,15
+Female,No,Yes,Asian,Medium,66,44.158,13
+Female,No,Yes,Asian,High,24,36.929,14
+Female,No,Yes,Caucasian,Premium,25,31.861,16
+Female,No,Yes,Caucasian,Premium,50,77.38,12
+Female,Yes,Yes,Asian,Medium,64,19.531,16
+Male,Yes,Yes,Caucasian,Medium,49,44.646,15
+Male,No,Yes,Asian,Very low,72,44.522,15
+Male,Yes,Yes,African American,Medium,49,43.479,13
+Male,No,Yes,African American,Medium,49,36.361999999999995,15
+Male,No,Yes,African American,Medium,27,39.705,20
+Male,No,Yes,Caucasian,High,32,44.205,12
+Male,No,Yes,Asian,High,66,16.304000000000002,10
+Female,No,Yes,Asian,Very low,47,15.333,9
+Female,No,Yes,Asian,Very low,60,32.916,8
+Female,No,Yes,Asian,Medium,79,57.1,18
+Female,No,Yes,Caucasian,Medium,65,76.273,14
+Male,No,Yes,Caucasian,Low,70,10.354000000000001,17
+Female,No,No,Caucasian,High,81,51.872,17
+Female,No,No,Asian,Medium,35,35.51,20
+Female,No,No,Caucasian,Low,59,21.238000000000003,10
+Female,No,No,Caucasian,Very low,77,30.682,7
+Male,No,No,Caucasian,Low,75,14.132,17
+Female,No,Yes,African American,Low,79,32.164,15
+Female,No,Yes,Caucasian,Medium,28,12.0,14
+Female,No,Yes,Asian,Premium,38,113.829,13
+Female,No,No,African American,High,69,11.187000000000001,16
+Female,No,Yes,Caucasian,High,78,27.846999999999998,15
+Male,No,Yes,Caucasian,Premium,55,49.501999999999995,14
+Male,No,Yes,Caucasian,Medium,75,24.889,12
+Female,No,Yes,Asian,Premium,81,58.781000000000006,12
+Female,No,Yes,Asian,Medium,47,22.939,18
+Male,No,No,Caucasian,Medium,31,23.989,15
+Female,No,Yes,Caucasian,High,45,16.102999999999998,10
+Male,No,Yes,African American,Low,28,33.016999999999996,16
+Male,Yes,No,Caucasian,Low,68,30.622,16
+Female,No,No,Asian,Low,30,20.936,15
+Female,No,Yes,Caucasian,Premium,45,110.96799999999999,11
+Male,No,No,Asian,Very low,65,15.354000000000001,14
+Female,No,Yes,Caucasian,Low,40,27.369,9
+Male,No,No,Caucasian,Medium,83,53.48,15
+Male,No,No,Caucasian,Medium,63,23.671999999999997,11
+Female,No,No,Caucasian,Very low,38,19.225,14
+Male,No,No,Caucasian,Low,69,43.54,11
+Female,No,Yes,Asian,Premium,41,152.298,12
+Male,No,Yes,Caucasian,High,33,55.367,15
+Female,No,No,Asian,Very low,59,11.741,12
+Male,No,Yes,African American,Medium,57,15.56,8
+Female,No,No,African American,Premium,52,59.53,9
+Male,No,Yes,African American,High,42,20.191,16
+Male,No,Yes,Caucasian,High,47,48.498000000000005,16
+Male,No,No,Caucasian,Low,51,30.733,13
+Male,No,No,African American,High,26,16.479,16
+Female,No,No,African American,Low,45,38.009,15
+Female,No,Yes,African American,Very low,46,14.084000000000001,17
+Male,Yes,No,Asian,Medium,59,14.312000000000001,17
+Female,No,Yes,African American,Low,74,26.066999999999997,17
+Female,Yes,No,African American,Low,68,36.295,14
+Male,No,No,Caucasian,Premium,47,83.851,18
+Male,No,No,Caucasian,Low,41,21.153000000000002,11
+Female,Yes,No,Caucasian,Very low,70,17.976,16
+Male,Yes,No,Caucasian,Premium,56,68.71300000000001,16
+Male,No,No,Caucasian,Premium,66,146.183,15
+Female,No,No,Caucasian,Medium,53,15.845999999999998,12
+Female,No,Yes,Caucasian,Low,58,12.030999999999999,18
+Male,No,Yes,Asian,Very low,74,16.819000000000003,15
+Male,No,No,Asian,Low,72,39.11,12
+Male,No,Yes,Caucasian,High,64,107.986,14
+Male,No,Yes,Asian,Low,37,13.561,19
+Female,No,Yes,Asian,Low,57,34.537,17
+Female,No,No,African American,Low,60,28.575,11
+Male,No,Yes,Caucasian,Premium,42,46.007,14
+Female,No,Yes,Asian,Premium,30,69.251,12
+Male,No,No,Caucasian,Low,41,16.482,15
+Female,No,No,African American,Medium,81,40.442,8
+Female,No,No,Caucasian,Very low,62,35.177,16
+Male,No,Yes,Asian,Premium,47,91.36200000000001,17
+Female,No,No,Caucasian,Very low,40,27.039,17
+Male,No,No,Caucasian,Very low,81,23.011999999999997,16
+Female,No,Yes,Asian,Very low,67,27.241,15
+Male,No,Yes,Caucasian,Premium,83,148.08,13
+Female,No,No,Caucasian,Premium,84,62.602,11
+Female,No,No,African American,Very low,77,11.808,14
+Female,No,Yes,Caucasian,Very low,30,29.564,12
+Female,No,Yes,Caucasian,Very low,34,27.578000000000003,15
+Female,Yes,Yes,Asian,High,50,26.427,15
+Female,No,No,Caucasian,Low,72,57.202,11
+Male,Yes,No,African American,Premium,89,123.29899999999999,17
+Male,No,Yes,African American,Low,56,18.145,15
+Female,Yes,Yes,African American,Low,56,23.793000000000003,12
+Male,No,Yes,Asian,Very low,46,10.725999999999999,19
+Male,No,Yes,African American,High,49,23.283,13
+Female,No,Yes,African American,High,80,21.455,12
+Female,No,Yes,African American,High,77,34.664,15
+Female,No,No,African American,Low,81,44.473,16
+Female,No,No,African American,Medium,70,54.663000000000004,8
+Male,No,Yes,Asian,Low,35,36.355,9
+Female,No,Yes,Caucasian,Very low,74,21.374000000000002,11
+Male,No,No,African American,Premium,87,107.84100000000001,7
+Female,Yes,Yes,African American,High,32,39.830999999999996,12
+Male,No,Yes,Caucasian,Premium,33,91.876,10
+Male,No,No,Asian,Premium,84,103.89299999999999,17
+Female,No,No,African American,High,64,19.636,10
+Male,No,Yes,Caucasian,Low,32,17.392,14
+Male,No,No,Asian,Medium,51,19.529,14
+Female,No,Yes,Caucasian,Medium,55,17.055,15
+Male,No,Yes,Caucasian,Very low,56,23.857,16
+Female,No,Yes,Caucasian,Very low,69,15.184000000000001,11
+Male,No,Yes,Asian,Very low,44,13.444,10
+Female,No,Yes,African American,High,28,63.931000000000004,14
+Female,No,Yes,Caucasian,Medium,66,35.864000000000004,13
+Female,Yes,No,Caucasian,Very low,24,41.419,11
+Male,No,No,Caucasian,Medium,32,92.11200000000001,17
+Male,No,Yes,African American,Low,31,55.056000000000004,16
+Female,No,Yes,Asian,Very low,34,19.537,9
+Female,No,Yes,Caucasian,Medium,75,31.811,13
+Female,Yes,Yes,Caucasian,High,72,56.256,16
+Female,No,Yes,Asian,High,83,42.357,12
+Male,No,No,Asian,Low,53,53.318999999999996,13
+Female,No,No,Caucasian,High,67,12.238,11
+Male,No,Yes,Caucasian,Very low,81,31.353,14
+Male,No,Yes,Caucasian,Premium,56,63.809,12
+Female,No,No,African American,Very low,80,13.675999999999998,16
+Male,No,Yes,Asian,High,44,76.782,12
+Male,No,Yes,Caucasian,Medium,46,25.383000000000003,11
+Male,No,No,African American,Very low,35,35.691,15
+Female,No,Yes,Caucasian,Very low,37,29.403000000000002,14
+Female,No,Yes,Asian,Low,32,27.47,11
+Female,No,Yes,Caucasian,High,36,27.33,12
+Male,No,No,Asian,Very low,57,34.772,9
+Female,No,Yes,Caucasian,Low,63,36.934,9
+Male,No,No,Asian,Medium,60,76.348,18
+Male,No,Yes,African American,Medium,58,14.887,12
+Male,No,No,African American,Premium,54,121.834,16
+Male,No,No,Caucasian,Very low,52,30.131999999999998,17
+Male,No,Yes,Caucasian,Low,32,24.05,18
+Female,No,Yes,Asian,Low,34,22.379,14
+Female,No,No,Caucasian,Medium,29,28.316,10
+Female,No,No,Caucasian,Premium,67,58.026,11
+Male,No,Yes,Asian,Low,69,10.635,16
+Male,No,Yes,African American,High,81,46.102,12
+Female,No,Yes,African American,High,66,58.928999999999995,9
+Female,No,Yes,Asian,Medium,29,80.861,15
+Female,No,Yes,Caucasian,Premium,62,158.889,17
+Female,No,No,African American,Medium,30,30.42,14
+Male,No,No,African American,Medium,52,36.472,13
+Male,No,No,Asian,Very low,75,23.365,15
+Male,No,No,African American,Premium,83,83.869,11
+Female,No,Yes,Caucasian,Medium,85,58.351000000000006,16
+Female,No,Yes,Caucasian,High,50,55.187,17
+Female,Yes,No,Asian,Premium,52,124.29,17
+Male,No,Yes,Asian,Low,56,28.508000000000003,14
+Female,No,Yes,Caucasian,Premium,39,130.209,19
+Male,No,Yes,African American,Very low,79,30.406,14
+Female,No,Yes,African American,High,73,23.883000000000003,16
+Male,No,Yes,African American,Premium,67,93.039,12
+Female,No,No,African American,Medium,84,50.699,17
+Female,No,Yes,African American,Very low,51,27.349,16
+Male,No,Yes,Asian,Medium,43,10.402999999999999,7
+Male,No,Yes,African American,High,40,23.949,18
+Female,No,Yes,Caucasian,Premium,67,73.914,15
+Female,No,Yes,Caucasian,Very low,58,21.038,13
+Female,Yes,No,African American,Premium,40,68.206,16
+Female,No,No,Caucasian,High,45,57.336999999999996,7
+Male,No,No,Caucasian,Medium,29,10.793,13
+Male,No,No,Caucasian,Very low,78,23.45,13
+Female,Yes,Yes,Caucasian,Medium,37,10.842,10
+Male,No,No,African American,Medium,46,51.345,15
+Female,No,Yes,African American,Premium,91,151.947,11
+Female,No,Yes,Caucasian,Low,62,24.543000000000003,12
+Male,No,No,Caucasian,High,25,29.566999999999997,15
+Male,No,Yes,Caucasian,Medium,66,39.145,13
+Male,No,No,African American,High,44,39.422,19
+Female,No,Yes,Caucasian,High,62,34.909,16
+Female,No,Yes,Caucasian,Medium,79,41.025,19
+Male,No,No,Asian,Very low,60,15.475999999999999,18
+Male,No,Yes,Caucasian,High,65,12.456,14
+Female,Yes,Yes,Asian,Very low,71,10.627,10
+Female,No,No,Caucasian,Medium,76,38.954,13
+Female,Yes,No,Asian,High,53,44.847,13
+Female,No,No,African American,Premium,78,98.515,11
+Male,Yes,No,Caucasian,High,44,33.437,9
+Male,No,Yes,Asian,Medium,72,27.511999999999997,17
+Male,No,Yes,Caucasian,Premium,50,121.709,6
+Female,No,Yes,Asian,High,28,15.079,15
+Female,No,No,Caucasian,Premium,78,59.879,15
+Female,No,Yes,Caucasian,High,47,66.98899999999999,14
+Female,No,No,African American,Medium,34,69.165,11
+Male,No,Yes,Asian,Premium,76,69.943,9
+Male,No,No,African American,High,59,33.214,9
+Male,No,Yes,Caucasian,High,29,25.124000000000002,12
+Male,No,Yes,Asian,Medium,39,15.741,14
+Male,No,Yes,Caucasian,Very low,71,11.603,11
+Male,No,Yes,African American,Premium,41,69.656,14
+Female,No,Yes,African American,Low,25,10.503,18
+Male,No,Yes,Asian,Medium,37,42.528999999999996,11
+Male,No,Yes,Asian,High,38,60.57899999999999,15
+Female,No,Yes,Caucasian,Low,58,26.531999999999996,19
+Female,No,Yes,Asian,Low,35,27.951999999999998,13
+Female,No,Yes,Asian,Low,71,29.705,14
+Male,No,Yes,African American,Very low,36,15.602,11
+Female,Yes,Yes,Asian,Very low,47,20.918000000000003,18
+Female,No,Yes,Caucasian,High,56,58.165,12
+Female,No,No,Caucasian,Very low,66,22.561,15
+Female,No,Yes,African American,Very low,80,34.509,18
+Female,No,No,Asian,Low,59,19.588,14
+Male,No,No,Caucasian,Very low,50,36.364000000000004,19
+Male,Yes,Yes,Caucasian,Very low,38,15.717,16
+Female,Yes,Yes,Caucasian,Very low,43,22.574,13
+Female,No,Yes,Asian,Very low,47,10.363,18
+Male,No,Yes,Caucasian,Low,66,28.474,12
+Female,No,No,Caucasian,Premium,64,72.945,8
+Male,No,Yes,African American,High,60,85.425,12
+Female,No,Yes,Caucasian,Premium,79,36.508,6
+Male,No,No,African American,Medium,50,58.063,8
+Female,No,No,Asian,Very low,71,25.936,14
+Male,No,Yes,Asian,Very low,60,15.629000000000001,14
+Male,No,Yes,Caucasian,Very low,36,41.4,14
+Female,No,No,Caucasian,High,55,33.657,9
+Male,No,Yes,Asian,High,63,67.937,12
+Female,Yes,Yes,Asian,Premium,67,180.37900000000002,8
+Female,No,Yes,Caucasian,Low,66,10.588,13
+Female,No,No,African American,Low,52,29.725,15
+Male,No,Yes,Caucasian,High,55,27.999000000000002,10
+Female,No,Yes,African American,High,46,40.885,13
+Female,No,Yes,Caucasian,Medium,86,88.83,16
+Female,No,Yes,Asian,High,29,29.638,15
+Male,No,No,Caucasian,Very low,82,25.988000000000003,12
+Female,No,Yes,Caucasian,High,48,39.055,18
+Male,No,No,Caucasian,Low,39,15.866,13
+Female,No,No,Caucasian,Medium,30,44.978,10
+Female,Yes,No,Asian,Low,25,30.413,15
+Male,Yes,No,Asian,Medium,48,16.750999999999998,14
+Female,No,No,African American,High,81,30.55,9
+Male,No,Yes,Caucasian,Premium,50,163.329,14
+Female,No,No,Caucasian,Low,50,23.105999999999998,15
+Male,No,Yes,Caucasian,Medium,50,41.532,12
+Female,No,Yes,Caucasian,Premium,78,128.04,11
+Female,Yes,No,Caucasian,Low,59,54.318999999999996,8
+Female,No,No,African American,Medium,35,53.401,12
+Female,No,No,African American,Very low,33,36.141999999999996,13
+Female,No,Yes,Caucasian,Premium,50,63.534,17
+Female,No,Yes,Caucasian,Premium,75,49.927,17
+Male,No,Yes,Caucasian,Very low,67,14.710999999999999,6
+Female,No,Yes,Asian,Very low,41,18.967,11
+Female,No,No,Caucasian,Very low,48,18.035999999999998,15
+Male,No,Yes,Caucasian,Low,69,60.449,8
+Female,No,Yes,Asian,High,42,16.711,16
+Male,No,No,Caucasian,Low,30,10.852,9
+Male,No,Yes,Asian,Low,78,26.37,11
+Female,No,Yes,Caucasian,Low,56,24.088,13
+Male,No,Yes,Caucasian,High,31,51.532,15
+Male,No,Yes,African American,Premium,46,140.672,9
+Male,No,Yes,Asian,Very low,42,42.915,13
+Female,No,Yes,Caucasian,Very low,67,27.272,10
+Female,No,Yes,Caucasian,Medium,49,65.896,17
+Male,No,Yes,Asian,Medium,74,55.053999999999995,17
+Female,No,No,African American,Very low,70,20.791,18
+Female,No,Yes,African American,Medium,76,24.919,11
+Male,No,Yes,Caucasian,Medium,50,21.785999999999998,17
+Female,No,No,Caucasian,Low,38,31.335,7
+Female,No,Yes,Caucasian,Medium,46,59.855,13
+Male,No,Yes,African American,Medium,79,44.06100000000001,11
+Female,No,Yes,Asian,Premium,64,82.706,13
+Female,No,Yes,Asian,Very low,50,24.46,14
+Male,No,Yes,Caucasian,Low,80,45.12,8
+Female,No,Yes,Asian,Low,41,75.406,14
+Male,No,No,Asian,Medium,33,14.956,6
+Female,No,Yes,Caucasian,Premium,34,75.257,18
+Male,Yes,No,African American,Medium,52,33.694,16
+Female,No,Yes,Caucasian,High,57,23.375,15
+Male,No,Yes,Caucasian,High,63,27.825,11
+Female,No,Yes,Asian,Premium,75,92.38600000000001,18
+Male,No,No,African American,Premium,69,115.52,14
+Male,No,Yes,Caucasian,Low,43,14.479000000000001,16
+Male,No,No,Asian,Premium,57,52.178999999999995,14
+Male,No,Yes,Caucasian,Medium,71,68.462,16
+Female,No,No,Caucasian,Very low,82,18.951,13
+Male,No,Yes,African American,Low,54,27.59,16
+Male,Yes,Yes,African American,Very low,78,16.279,13
+Female,No,Yes,Caucasian,Low,27,25.078000000000003,15
+Male,No,No,Caucasian,Low,51,27.229,11
+Male,No,Yes,Caucasian,Premium,98,182.72799999999998,17
+Male,Yes,Yes,Asian,Low,66,31.029,17
+Female,No,Yes,Caucasian,Medium,66,17.765,12
+Male,No,Yes,Caucasian,Premium,82,125.48,16
+Female,No,No,Asian,Premium,68,49.166000000000004,14
+Female,No,Yes,Caucasian,Low,54,41.192,16
+Female,No,Yes,Caucasian,Premium,44,94.193,16
+Male,Yes,No,Asian,Medium,72,20.405,17
+Male,No,Yes,Caucasian,Low,48,12.581,16
+Male,No,No,Caucasian,Medium,83,62.328,15
+Male,No,Yes,African American,Low,68,21.011,17
+Female,No,Yes,Caucasian,Medium,64,24.23,15
+Female,No,Yes,Caucasian,Low,23,24.314,7
+Male,No,No,Caucasian,High,68,32.856,13
+Male,No,Yes,African American,Very low,32,12.414000000000001,12
+Male,No,No,Caucasian,Medium,45,41.365,14
+Male,No,No,African American,Premium,80,149.316,16
+Female,No,Yes,African American,Medium,35,27.794,8
+Female,No,Yes,Caucasian,Low,77,13.234000000000002,17
+Male,No,Yes,African American,Low,37,14.595,9
+Female,No,Yes,Caucasian,Low,44,10.735,17
+Male,No,Yes,Asian,High,39,48.218,10
+Male,No,Yes,Caucasian,Very low,33,30.011999999999997,17
+Male,No,Yes,Asian,High,51,21.551,18
+Male,No,No,Caucasian,Premium,69,160.231,17
+Male,No,Yes,Caucasian,Very low,70,13.433,14
+Female,No,Yes,Asian,High,71,48.577,13
+Female,No,Yes,Caucasian,Very low,70,30.002,13
+Male,No,Yes,Caucasian,Medium,71,61.62,9
+Male,No,Yes,African American,Premium,41,104.48299999999999,14
+Male,No,No,Caucasian,Medium,47,41.868,18
+Female,No,Yes,Asian,Low,44,12.068,18
+Female,No,Yes,African American,Premium,58,180.68200000000002,8
+Male,No,No,Caucasian,High,36,34.48,14
+Male,No,Yes,Asian,Very low,40,39.609,14
+Male,No,Yes,Caucasian,Medium,81,30.111,18
+Male,No,Yes,African American,Medium,79,12.335,12
+Female,No,No,Caucasian,High,82,53.566,10
+Female,No,Yes,Asian,Medium,46,53.217,16
+Female,No,No,African American,High,62,26.162,19
+Male,No,Yes,Caucasian,High,80,64.173,10
+Male,No,Yes,Asian,Premium,67,128.66899999999998,16
+Male,Yes,Yes,Caucasian,Premium,69,113.772,15
+Male,No,Yes,Caucasian,Premium,56,61.068999999999996,14
+Male,No,No,African American,Low,70,23.793000000000003,14
+Female,No,No,Caucasian,High,37,89.0,6
+Male,No,Yes,Caucasian,Premium,57,71.682,16
+Male,No,No,Caucasian,High,40,35.61,12
+Male,No,No,Caucasian,Very low,75,39.116,15
+Female,Yes,No,Caucasian,Low,46,19.782,16
+Female,Yes,Yes,Caucasian,High,37,55.412,16
+Female,No,Yes,Caucasian,Medium,76,29.4,18
+Female,No,Yes,Caucasian,High,44,20.974,16
+Female,No,No,African American,Premium,46,87.625,10
+Male,No,Yes,Caucasian,Very low,51,28.144000000000002,10
+Male,No,Yes,Caucasian,Medium,33,19.349,19
+Male,No,Yes,Caucasian,Very low,84,53.308,10
+Female,No,No,African American,Premium,83,115.12299999999999,14
+Male,No,Yes,Caucasian,Premium,84,101.788,11
+Male,Yes,No,Caucasian,High,33,24.824,9
+Male,No,Yes,Caucasian,Low,64,14.292,9
+Male,No,No,African American,Very low,76,20.088,16
+Female,No,No,Asian,High,58,26.4,15
+Male,No,No,African American,Low,57,19.253,10
+Male,No,No,Asian,Very low,62,16.529,9
+Female,No,No,Caucasian,Premium,80,37.878,13
+Male,No,No,Caucasian,Premium,44,83.948,18
+Female,No,Yes,Asian,Premium,81,135.118,15
+Female,No,No,Caucasian,Premium,43,73.327,15
+Male,No,No,Asian,Very low,24,25.974,10
+Male,No,No,African American,Very low,65,17.316,13
+Male,No,No,Caucasian,High,40,49.794,8
+Male,No,Yes,Caucasian,Medium,32,12.095999999999998,13
+Male,No,No,African American,Low,65,13.364,17
+Female,No,Yes,Caucasian,Medium,67,57.872,12
+Male,No,Yes,Caucasian,Very low,44,37.728,13
+Female,No,No,Asian,High,64,18.701,7

@@ -1,0 +1,401 @@
+Gender,Student,Married,Ethnicity,Rating
+Male,No,Yes,Caucasian,Low
+Female,Yes,Yes,Asian,Premium
+Male,No,No,Asian,Premium
+Female,No,No,Asian,Premium
+Male,No,Yes,Caucasian,Medium
+Male,No,No,Caucasian,Premium
+Female,No,No,African American,Low
+Male,No,No,Asian,Premium
+Female,No,No,Caucasian,Low
+Female,Yes,Yes,African American,Premium
+Male,No,Yes,Caucasian,Premium
+Male,No,No,Caucasian,Very low
+Female,No,Yes,Asian,High
+Male,No,Yes,Caucasian,Premium
+Female,No,No,African American,Low
+Female,No,Yes,African American,Very low
+Female,No,Yes,African American,Low
+Female,No,Yes,Asian,Medium
+Female,No,Yes,Asian,High
+Male,No,No,Asian,Premium
+Female,No,No,Asian,Low
+Female,No,No,Caucasian,High
+Male,No,Yes,African American,Very low
+Male,No,Yes,African American,High
+Female,No,No,Caucasian,Very low
+Female,No,Yes,African American,Medium
+Female,Yes,No,Caucasian,Low
+Male,No,No,African American,Medium
+Female,No,Yes,African American,Premium
+Female,No,No,Caucasian,High
+Female,No,Yes,Caucasian,High
+Male,No,Yes,Asian,Very low
+Female,No,No,Caucasian,Premium
+Male,No,Yes,Caucasian,Very low
+Female,No,Yes,Asian,Very low
+Female,Yes,No,Caucasian,Low
+Female,No,Yes,Caucasian,High
+Female,No,Yes,Caucasian,High
+Female,No,No,Caucasian,Medium
+Male,No,Yes,Caucasian,Low
+Female,No,No,African American,Low
+Male,Yes,Yes,African American,Premium
+Female,No,Yes,Asian,Medium
+Female,No,Yes,Asian,High
+Female,No,Yes,Caucasian,Premium
+Female,No,Yes,Caucasian,Premium
+Female,Yes,Yes,Asian,Medium
+Male,Yes,Yes,Caucasian,Medium
+Male,No,Yes,Asian,Very low
+Male,Yes,Yes,African American,Medium
+Male,No,Yes,African American,Medium
+Male,No,Yes,African American,Medium
+Male,No,Yes,Caucasian,High
+Male,No,Yes,Asian,High
+Female,No,Yes,Asian,Very low
+Female,No,Yes,Asian,Very low
+Female,No,Yes,Asian,Medium
+Female,No,Yes,Caucasian,Medium
+Male,No,Yes,Caucasian,Low
+Female,No,No,Caucasian,High
+Female,No,No,Asian,Medium
+Female,No,No,Caucasian,Low
+Female,No,No,Caucasian,Very low
+Male,No,No,Caucasian,Low
+Female,No,Yes,African American,Low
+Female,No,Yes,Caucasian,Medium
+Female,No,Yes,Asian,Premium
+Female,No,No,African American,High
+Female,No,Yes,Caucasian,High
+Male,No,Yes,Caucasian,Premium
+Male,No,Yes,Caucasian,Medium
+Female,No,Yes,Asian,Premium
+Female,No,Yes,Asian,Medium
+Male,No,No,Caucasian,Medium
+Female,No,Yes,Caucasian,High
+Male,No,Yes,African American,Low
+Male,Yes,No,Caucasian,Low
+Female,No,No,Asian,Low
+Female,No,Yes,Caucasian,Premium
+Male,No,No,Asian,Very low
+Female,No,Yes,Caucasian,Low
+Male,No,No,Caucasian,Medium
+Male,No,No,Caucasian,Medium
+Female,No,No,Caucasian,Very low
+Male,No,No,Caucasian,Low
+Female,No,Yes,Asian,Premium
+Male,No,Yes,Caucasian,High
+Female,No,No,Asian,Very low
+Male,No,Yes,African American,Medium
+Female,No,No,African American,Premium
+Male,No,Yes,African American,High
+Male,No,Yes,Caucasian,High
+Male,No,No,Caucasian,Low
+Male,No,No,African American,High
+Female,No,No,African American,Low
+Female,No,Yes,African American,Very low
+Male,Yes,No,Asian,Medium
+Female,No,Yes,African American,Low
+Female,Yes,No,African American,Low
+Male,No,No,Caucasian,Premium
+Male,No,No,Caucasian,Low
+Female,Yes,No,Caucasian,Very low
+Male,Yes,No,Caucasian,Premium
+Male,No,No,Caucasian,Premium
+Female,No,No,Caucasian,Medium
+Female,No,Yes,Caucasian,Low
+Male,No,Yes,Asian,Very low
+Male,No,No,Asian,Low
+Male,No,Yes,Caucasian,High
+Male,No,Yes,Asian,Low
+Female,No,Yes,Asian,Low
+Female,No,No,African American,Low
+Male,No,Yes,Caucasian,Premium
+Female,No,Yes,Asian,Premium
+Male,No,No,Caucasian,Low
+Female,No,No,African American,Medium
+Female,No,No,Caucasian,Very low
+Male,No,Yes,Asian,Premium
+Female,No,No,Caucasian,Very low
+Male,No,No,Caucasian,Very low
+Female,No,Yes,Asian,Very low
+Male,No,Yes,Caucasian,Premium
+Female,No,No,Caucasian,Premium
+Female,No,No,African American,Very low
+Female,No,Yes,Caucasian,Very low
+Female,No,Yes,Caucasian,Very low
+Female,Yes,Yes,Asian,High
+Female,No,No,Caucasian,Low
+Male,Yes,No,African American,Premium
+Male,No,Yes,African American,Low
+Female,Yes,Yes,African American,Low
+Male,No,Yes,Asian,Very low
+Male,No,Yes,African American,High
+Female,No,Yes,African American,High
+Female,No,Yes,African American,High
+Female,No,No,African American,Low
+Female,No,No,African American,Medium
+Male,No,Yes,Asian,Low
+Female,No,Yes,Caucasian,Very low
+Male,No,No,African American,Premium
+Female,Yes,Yes,African American,High
+Male,No,Yes,Caucasian,Premium
+Male,No,No,Asian,Premium
+Female,No,No,African American,High
+Male,No,Yes,Caucasian,Low
+Male,No,No,Asian,Medium
+Female,No,Yes,Caucasian,Medium
+Male,No,Yes,Caucasian,Very low
+Female,No,Yes,Caucasian,Very low
+Male,No,Yes,Asian,Very low
+Female,No,Yes,African American,High
+Female,No,Yes,Caucasian,Medium
+Female,Yes,No,Caucasian,Very low
+Male,No,No,Caucasian,Medium
+Male,No,Yes,African American,Low
+Female,No,Yes,Asian,Very low
+Female,No,Yes,Caucasian,Medium
+Female,Yes,Yes,Caucasian,High
+Female,No,Yes,Asian,High
+Male,No,No,Asian,Low
+Female,No,No,Caucasian,High
+Male,No,Yes,Caucasian,Very low
+Male,No,Yes,Caucasian,Premium
+Female,No,No,African American,Very low
+Male,No,Yes,Asian,High
+Male,No,Yes,Caucasian,Medium
+Male,No,No,African American,Very low
+Female,No,Yes,Caucasian,Very low
+Female,No,Yes,Asian,Low
+Female,No,Yes,Caucasian,High
+Male,No,No,Asian,Very low
+Female,No,Yes,Caucasian,Low
+Male,No,No,Asian,Medium
+Male,No,Yes,African American,Medium
+Male,No,No,African American,Premium
+Male,No,No,Caucasian,Very low
+Male,No,Yes,Caucasian,Low
+Female,No,Yes,Asian,Low
+Female,No,No,Caucasian,Medium
+Female,No,No,Caucasian,Premium
+Male,No,Yes,Asian,Low
+Male,No,Yes,African American,High
+Female,No,Yes,African American,High
+Female,No,Yes,Asian,Medium
+Female,No,Yes,Caucasian,Premium
+Female,No,No,African American,Medium
+Male,No,No,African American,Medium
+Male,No,No,Asian,Very low
+Male,No,No,African American,Premium
+Female,No,Yes,Caucasian,Medium
+Female,No,Yes,Caucasian,High
+Female,Yes,No,Asian,Premium
+Male,No,Yes,Asian,Low
+Female,No,Yes,Caucasian,Premium
+Male,No,Yes,African American,Very low
+Female,No,Yes,African American,High
+Male,No,Yes,African American,Premium
+Female,No,No,African American,Medium
+Female,No,Yes,African American,Very low
+Male,No,Yes,Asian,Medium
+Male,No,Yes,African American,High
+Female,No,Yes,Caucasian,Premium
+Female,No,Yes,Caucasian,Very low
+Female,Yes,No,African American,Premium
+Female,No,No,Caucasian,High
+Male,No,No,Caucasian,Medium
+Male,No,No,Caucasian,Very low
+Female,Yes,Yes,Caucasian,Medium
+Male,No,No,African American,Medium
+Female,No,Yes,African American,Premium
+Female,No,Yes,Caucasian,Low
+Male,No,No,Caucasian,High
+Male,No,Yes,Caucasian,Medium
+Male,No,No,African American,High
+Female,No,Yes,Caucasian,High
+Female,No,Yes,Caucasian,Medium
+Male,No,No,Asian,Very low
+Male,No,Yes,Caucasian,High
+Female,Yes,Yes,Asian,Very low
+Female,No,No,Caucasian,Medium
+Female,Yes,No,Asian,High
+Female,No,No,African American,Premium
+Male,Yes,No,Caucasian,High
+Male,No,Yes,Asian,Medium
+Male,No,Yes,Caucasian,Premium
+Female,No,Yes,Asian,High
+Female,No,No,Caucasian,Premium
+Female,No,Yes,Caucasian,High
+Female,No,No,African American,Medium
+Male,No,Yes,Asian,Premium
+Male,No,No,African American,High
+Male,No,Yes,Caucasian,High
+Male,No,Yes,Asian,Medium
+Male,No,Yes,Caucasian,Very low
+Male,No,Yes,African American,Premium
+Female,No,Yes,African American,Low
+Male,No,Yes,Asian,Medium
+Male,No,Yes,Asian,High
+Female,No,Yes,Caucasian,Low
+Female,No,Yes,Asian,Low
+Female,No,Yes,Asian,Low
+Male,No,Yes,African American,Very low
+Female,Yes,Yes,Asian,Very low
+Female,No,Yes,Caucasian,High
+Female,No,No,Caucasian,Very low
+Female,No,Yes,African American,Very low
+Female,No,No,Asian,Low
+Male,No,No,Caucasian,Very low
+Male,Yes,Yes,Caucasian,Very low
+Female,Yes,Yes,Caucasian,Very low
+Female,No,Yes,Asian,Very low
+Male,No,Yes,Caucasian,Low
+Female,No,No,Caucasian,Premium
+Male,No,Yes,African American,High
+Female,No,Yes,Caucasian,Premium
+Male,No,No,African American,Medium
+Female,No,No,Asian,Very low
+Male,No,Yes,Asian,Very low
+Male,No,Yes,Caucasian,Very low
+Female,No,No,Caucasian,High
+Male,No,Yes,Asian,High
+Female,Yes,Yes,Asian,Premium
+Female,No,Yes,Caucasian,Low
+Female,No,No,African American,Low
+Male,No,Yes,Caucasian,High
+Female,No,Yes,African American,High
+Female,No,Yes,Caucasian,Medium
+Female,No,Yes,Asian,High
+Male,No,No,Caucasian,Very low
+Female,No,Yes,Caucasian,High
+Male,No,No,Caucasian,Low
+Female,No,No,Caucasian,Medium
+Female,Yes,No,Asian,Low
+Male,Yes,No,Asian,Medium
+Female,No,No,African American,High
+Male,No,Yes,Caucasian,Premium
+Female,No,No,Caucasian,Low
+Male,No,Yes,Caucasian,Medium
+Female,No,Yes,Caucasian,Premium
+Female,Yes,No,Caucasian,Low
+Female,No,No,African American,Medium
+Female,No,No,African American,Very low
+Female,No,Yes,Caucasian,Premium
+Female,No,Yes,Caucasian,Premium
+Male,No,Yes,Caucasian,Very low
+Female,No,Yes,Asian,Very low
+Female,No,No,Caucasian,Very low
+Male,No,Yes,Caucasian,Low
+Female,No,Yes,Asian,High
+Male,No,No,Caucasian,Low
+Male,No,Yes,Asian,Low
+Female,No,Yes,Caucasian,Low
+Male,No,Yes,Caucasian,High
+Male,No,Yes,African American,Premium
+Male,No,Yes,Asian,Very low
+Female,No,Yes,Caucasian,Very low
+Female,No,Yes,Caucasian,Medium
+Male,No,Yes,Asian,Medium
+Female,No,No,African American,Very low
+Female,No,Yes,African American,Medium
+Male,No,Yes,Caucasian,Medium
+Female,No,No,Caucasian,Low
+Female,No,Yes,Caucasian,Medium
+Male,No,Yes,African American,Medium
+Female,No,Yes,Asian,Premium
+Female,No,Yes,Asian,Very low
+Male,No,Yes,Caucasian,Low
+Female,No,Yes,Asian,Low
+Male,No,No,Asian,Medium
+Female,No,Yes,Caucasian,Premium
+Male,Yes,No,African American,Medium
+Female,No,Yes,Caucasian,High
+Male,No,Yes,Caucasian,High
+Female,No,Yes,Asian,Premium
+Male,No,No,African American,Premium
+Male,No,Yes,Caucasian,Low
+Male,No,No,Asian,Premium
+Male,No,Yes,Caucasian,Medium
+Female,No,No,Caucasian,Very low
+Male,No,Yes,African American,Low
+Male,Yes,Yes,African American,Very low
+Female,No,Yes,Caucasian,Low
+Male,No,No,Caucasian,Low
+Male,No,Yes,Caucasian,Premium
+Male,Yes,Yes,Asian,Low
+Female,No,Yes,Caucasian,Medium
+Male,No,Yes,Caucasian,Premium
+Female,No,No,Asian,Premium
+Female,No,Yes,Caucasian,Low
+Female,No,Yes,Caucasian,Premium
+Male,Yes,No,Asian,Medium
+Male,No,Yes,Caucasian,Low
+Male,No,No,Caucasian,Medium
+Male,No,Yes,African American,Low
+Female,No,Yes,Caucasian,Medium
+Female,No,Yes,Caucasian,Low
+Male,No,No,Caucasian,High
+Male,No,Yes,African American,Very low
+Male,No,No,Caucasian,Medium
+Male,No,No,African American,Premium
+Female,No,Yes,African American,Medium
+Female,No,Yes,Caucasian,Low
+Male,No,Yes,African American,Low
+Female,No,Yes,Caucasian,Low
+Male,No,Yes,Asian,High
+Male,No,Yes,Caucasian,Very low
+Male,No,Yes,Asian,High
+Male,No,No,Caucasian,Premium
+Male,No,Yes,Caucasian,Very low
+Female,No,Yes,Asian,High
+Female,No,Yes,Caucasian,Very low
+Male,No,Yes,Caucasian,Medium
+Male,No,Yes,African American,Premium
+Male,No,No,Caucasian,Medium
+Female,No,Yes,Asian,Low
+Female,No,Yes,African American,Premium
+Male,No,No,Caucasian,High
+Male,No,Yes,Asian,Very low
+Male,No,Yes,Caucasian,Medium
+Male,No,Yes,African American,Medium
+Female,No,No,Caucasian,High
+Female,No,Yes,Asian,Medium
+Female,No,No,African American,High
+Male,No,Yes,Caucasian,High
+Male,No,Yes,Asian,Premium
+Male,Yes,Yes,Caucasian,Premium
+Male,No,Yes,Caucasian,Premium
+Male,No,No,African American,Low
+Female,No,No,Caucasian,High
+Male,No,Yes,Caucasian,Premium
+Male,No,No,Caucasian,High
+Male,No,No,Caucasian,Very low
+Female,Yes,No,Caucasian,Low
+Female,Yes,Yes,Caucasian,High
+Female,No,Yes,Caucasian,Medium
+Female,No,Yes,Caucasian,High
+Female,No,No,African American,Premium
+Male,No,Yes,Caucasian,Very low
+Male,No,Yes,Caucasian,Medium
+Male,No,Yes,Caucasian,Very low
+Female,No,No,African American,Premium
+Male,No,Yes,Caucasian,Premium
+Male,Yes,No,Caucasian,High
+Male,No,Yes,Caucasian,Low
+Male,No,No,African American,Very low
+Female,No,No,Asian,High
+Male,No,No,African American,Low
+Male,No,No,Asian,Very low
+Female,No,No,Caucasian,Premium
+Male,No,No,Caucasian,Premium
+Female,No,Yes,Asian,Premium
+Female,No,No,Caucasian,Premium
+Male,No,No,Asian,Very low
+Male,No,No,African American,Very low
+Male,No,No,Caucasian,High
+Male,No,Yes,Caucasian,Medium
+Male,No,No,African American,Low
+Female,No,Yes,Caucasian,Medium
+Male,No,Yes,Caucasian,Very low
+Female,No,No,Asian,High
