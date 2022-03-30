@@ -36,7 +36,7 @@ In particular we build our first data pipeline, trying to extract features to fe
 
 ## [Software and Tools](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/05.Software_tools) 🔧
 
-This lecture is aimed to introduce the use some powerful tools:
+This lecture is aimed to introduce some powerful tools:
 
 - [Tableau](https://www.tableau.com/products/public/) for data visualisation and dashboards.
 - [Git and GitHub](https://www.github.com/) for code versioning and collaboration.
