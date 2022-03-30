@@ -3,6 +3,7 @@ matplotlib==3.4.1
 scipy==1.7.2
 scikit-learn==0.24.1
 scikit-image==0.18.1
+statsmodels==0.13.2
 pydotplus==2.0.2
 pydot==1.4.2
 graphviz==0.16
