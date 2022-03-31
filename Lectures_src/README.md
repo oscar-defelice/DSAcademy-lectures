@@ -46,6 +46,9 @@ This lecture is aimed to introduce some powerful tools:
 
 ## [Time Series](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/06.Time_series) ⌛
 
+We illustrate methods to perform time series analysis and decomposition. 
+We give also mention of techniques to time series forecast.
+
 ## [Unsupervised learning](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/07.Unsupervised_learning) 🤖
 
 ## [Ensemble methods](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/08.Ensemble_methods) 🌳
