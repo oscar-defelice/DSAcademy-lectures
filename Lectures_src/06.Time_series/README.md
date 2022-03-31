@@ -14,21 +14,24 @@ Roughly speaking, a _random process_ is a family of stochastic variables over so
 
 $$ \mathcal{X} := \left\{x_i(\omega) \ \vert \ i\in \mathcal{T} \right\}\, .$$
 
-Hence, a time series can be represented as a sequence of values 
+Hence, a time series can be represented as a sequence of values
 
-$$y(t_i) = y_i \qquad \text{at times} \qquad t_i \, ,$$ 
+$$y(t_i) = y_i \qquad \text{at times} \qquad t_i \, ,$$
 
-and we might also have at each time step some auxiliary features 
+and we might also have at each time step some auxiliary features
 
 $$X(t_i) = X_i \, ,$$
 
-which we think are related with the values of $y_i$. 
+which we think are related with the values of $y_i$.
 
-## Practical time series analysis
+## [Practical time series analysis](https://github.com/oscar-defelice/DSAcademy-lectures/tree/master/Lectures_src/06.Time_series/01.TimeSeriesOperations.ipynb)
 
 We are going to illustrate some pandas methods to treat time indexed data and to extract useful information out of them.
 
-## Time series decomposition
+## [Time series decomposition](https://github.com/oscar-defelice/DSAcademy-lectures/tree/master/Lectures_src/06.Time_series/02.TimeSeriesDecomposition.ipynb)
 
 A very important skill is to separate the time phenomena into their basic components to split the analysis and to weight contributions.
 
+## [Time series forecast](https://github.com/oscar-defelice/DSAcademy-lectures/tree/master/Lectures_src/06.Time_series/03.TimeSeriesForecast.ipynb)
+
+We give some examples of models to forecast the future behaviour of time indexed data.

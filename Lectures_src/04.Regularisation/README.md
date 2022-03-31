@@ -1,8 +1,7 @@
 # Models issues
 
-## Underfitting
+## Underfit
 
-## Overfitting
+## Overfit
 
 ### Regularisation techniques
-
