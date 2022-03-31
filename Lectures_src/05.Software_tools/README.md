@@ -25,7 +25,7 @@ A very complete and updated repository containing football data can be found [he
     <img width="716" alt="image" src="https://user-images.githubusercontent.com/49638680/160803271-0df22bcf-00c2-468d-900f-cbfbef9598cb.png">
 </p>
 
-A nice dashboard, developed by the developer of one of the most commonly used models to calculate [Expected Goals](), Paul Riley, published in [Tableau public](https://public.tableau.com/app/profile/paul.riley/viz/PremierLeagueShotMap201920/Dashboard1?publish=yes)
+A nice dashboard, developed by the developer of one of the most commonly used models to [calculate](https://differentgame.wordpress.com/2012/12/29/shot-position-average-model-spam/) [Expected Goals](https://herfootballhub.com/data-metrics-explained-expected-goals-xg/#:~:text=%E2%80%9CExpected%20goals%20(or%20xG),before%20the%20shot%20was%20taken.), Paul Riley, published in [Tableau public](https://public.tableau.com/app/profile/paul.riley/viz/PremierLeagueShotMap201920/Dashboard1?publish=yes)
 
 ## Git
 
@@ -45,8 +45,7 @@ First of all, let us state an important fact: [Git is _not_ GitHub](https://stac
     <img width="500" alt="image" src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png">
 </p>
 
-
 Indeed, Git is the tool, GitHub is one of the services for projects that use Git.
 
-GitHub is a service provider of Internet hosting for software development and version control based on Git. 
+GitHub is a service provider of Internet hosting for software development and version control based on Git.
 A huge number of projects are hosted on GitHub repositories, included these lectures.
