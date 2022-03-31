@@ -4,6 +4,10 @@ In this lecture we focus on supervised learning problems.
 
 We will explore the two main classes of such models: _regression_ and _classification_ tasks.
 
+<p align="center">
+    <img width="547" src="https://imgs.xkcd.com/comics/machine_learning.png">
+</p>
+
 ## [Regression problems](https://github.com/oscar-defelice/DSAcademy-lectures/blob/master/Lectures_src/03.Supervised_learning/01.Regression.ipynb)
 
 These are commonly referred to the prediction of _continuous_ values. We will frame the problem as a supervised learning task building training couples and training a model on them.
