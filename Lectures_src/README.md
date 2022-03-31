@@ -1,19 +1,22 @@
 # Lecture Plan
+
 Here we describe the lecture plan and insert the link to the corresponding material.
 
 ---
 
 ## [Introduction](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/00.Introduction) 🎒
 
-Here we collect the introductory arguments for this course. In this lectures, we illustrate the general working scheme of a _Machine Learning model_, explaining the main categories of automated learning _i.e._ 
+Here we collect the introductory arguments for this course. In this lecture, we review some basic concepts in statistics, like probability distributions and hypothesis testing.
 
- - supervised learning
- - unsupervised learning
- - reinforcement learning
+Hence, we illustrate the general working scheme of a _Machine Learning model_, explaining the main categories of automated learning _i.e._
+
+- supervised learning
+- unsupervised learning
+- reinforcement learning
 
  Furthermore, we explore the main differences between predictive tasks of _classification_ and _regression_.
 
-Hence, we show a first example of predictive model: _linear regression_. 
+Hence, we show a first example of predictive model: _linear regression_.
 Finally, we also focus on the general lifecycle of a Data Science model.
 
 ## [Pandas and data visualisation](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src/01.Pandas) 🐼
