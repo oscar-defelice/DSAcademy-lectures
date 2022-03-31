@@ -1,15 +1,18 @@
 <a href="https://oscar-defelice.github.io"><img src="https://user-images.githubusercontent.com/49638680/98257151-9f5e5800-1f7f-11eb-9f42-479a4fc6cf24.png" height="125" align="right" /></a>
 
 # Data Science Academy lectures
+
 Here is the material for a course I will be giving in a Master of Data Science and AI for junior Data Scientists.
 
 This is somehow a _prequel_ of the other modules on
+
 1. [Statistical Learning](https://oscar-defelice.github.io/ML-lectures) 📈
 2. [Deep Learning](https://oscar-defelice.github.io/DeepLearning-lectures) 🦾
 3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
 4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 👀️
 
 ## Install requirements
+
 As usual, it is advisable to create a virtual environment to isolate dependencies.
 One can follow [this guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) and the suitable section according to the OS.
 
@@ -39,11 +42,13 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
   
 
 ## Contents of lectures
+
 You can find the list of the arguments and some relevant material [here](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src).
 
 ---
 
 ### Your lecturer 👨‍🏫
+
 #### [Oscar de Felice](https://oscar-defelice.github.io/)
 
 <a href="https://oscar-defelice.github.io/" target="_blank" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
