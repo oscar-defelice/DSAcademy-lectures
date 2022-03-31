@@ -38,5 +38,5 @@ This is the fun part, we are going to start a journey in the wide world of visua
 Equipped with such great tools, we follow an end-to-end path to data analysis.
 
 <p align="center">
-    <img width="900" alt="image" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s1f64e31a2e590807/image/i1945a6689068adda/version/1420552576/image.jpg">
+    <img width="600" alt="image" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s1f64e31a2e590807/image/i1945a6689068adda/version/1420552576/image.jpg">
 </p>
