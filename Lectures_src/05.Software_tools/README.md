@@ -37,6 +37,10 @@ Git is a free and open source distributed version control system designed to han
 
 It is difficult to underestimate the importance of git. It is enough to state that in modern computer science every company uses git in some form to version code.
 
+<p align="center">
+    <img width="350" alt="xkcd" src="https://imgs.xkcd.com/comics/git.png">
+</p>
+
 ### GitHub
 
 First of all, let us state an important fact: [Git is _not_ GitHub](https://stackoverflow.com/questions/13321556/difference-between-git-and-github).
