@@ -21,3 +21,11 @@ Benefits:
 
 It can be _local_ or _remote_ (online or on a local network).
 We are going to explore the use of git further on.
+
+## References
+
+- Free on-line book: http://git-scm.com/book
+- Git tutorial: http://schacon.github.com/git/gittutorial.html
+- Reference page for Git: http://gitref.org/index.html
+- Git website: http://git-scm.com/
+- Git for Computer Scientists (http://eagain.net/articles/git-forcomputer-scientists/)
