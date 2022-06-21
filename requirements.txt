@@ -14,3 +14,4 @@ pydub==0.25.1
 opencv-contrib-python==4.5.5.62
 prompt-toolkit==3.0.2
 openpyxl==3.0.9
+xlrd==2.0.1
