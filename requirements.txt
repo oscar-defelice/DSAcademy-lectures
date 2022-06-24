@@ -15,3 +15,5 @@ opencv-contrib-python==4.5.5.62
 prompt-toolkit==3.0.2
 openpyxl==3.0.9
 xlrd==2.0.1
+pystan==2.19.1.1
+prophet==1.0.1
