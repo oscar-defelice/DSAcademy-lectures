@@ -50,3 +50,4 @@ The motivation is to combine several weak models to produce a powerful ensemble.
 
 1. A nice introduction to ensemble algorithms can be found [here](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/).
 2. A more complete treatment of the subject can be found in chapter $8$ of [_Introduction to Statistical Learning_](https://www.statlearning.com/).
+3. A much more deep discussion about the topic is given by the book [_Ensemble Methods: Foundations and Algorithms_](https://tjzhifei.github.io/links/EMFA.pdf).
