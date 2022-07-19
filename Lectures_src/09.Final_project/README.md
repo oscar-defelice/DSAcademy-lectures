@@ -49,5 +49,8 @@ pipe = Pipeline([
                 ('model', LogisticRegression())
                 ])
 
+pipe.fit(X_train, y_train)
+pipe.predict(X_test) # Not compulsory to save the model.
+
 joblib.dump(pipe, '{NAME}_model.joblib')
 ```
