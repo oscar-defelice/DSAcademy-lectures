@@ -40,8 +40,7 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
   <a href = "https://beta.deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com/oscar-defelice/DSAcademy-lectures"> <img height="20" src="https://deepnote.com/buttons/launch-in-deepnote-small.svg"> </a>
 </p>
   
-
-## Contents of lectures
+## [Contents of lectures](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src)
 
 You can find the list of the arguments and some relevant material [here](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src).
 
