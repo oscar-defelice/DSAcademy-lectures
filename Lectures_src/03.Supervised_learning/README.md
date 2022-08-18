@@ -25,7 +25,7 @@ This is based on the _sigmoid function_, defined by
 $$ f(z) := \frac{1}{1+e^{-z}}\, .$$
 
 <p align="center">
-    <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP3997126a80776156d3d300003cdh3cg22c58ab4d?MSPStoreType=image/gif&s=1">
+    <img src="https://www.researchgate.net/profile/Tali-Leibovich-Raveh/publication/325868989/figure/fig2/AS:639475206074368@1529474178211/A-Basic-sigmoid-function-with-two-parameters-c1-and-c2-as-commonly-used-for-subitizing.png">
 </p>
 
 We use such a function as a regressor for the probability to belong to a specified class.
