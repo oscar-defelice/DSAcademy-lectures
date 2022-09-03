@@ -30,14 +30,14 @@ This installs all the packages the code in this repository needs.
 You can use _Binder_, to interact with notebooks and play with the code and the exercises.
 
 <p align="center">
-  <a href = "https://mybinder.org/v2/gh/oscar-defelice/DSAcademy-lectures/HEAD?urlpath=lab"> <img src="https://mybinder.org/badge_logo.svg"> </a>
+  <a href = "https://mybinder.org/v2/gh/oscar-defelice/DSAcademy-lectures/HEAD?urlpath=lab" target="_blank"> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
 
 ### DeepNote
 
  Alternatively, you can work on these notebooks in another online workspace called [Deepnote](https://www.deepnote.com/). This allows you to play around with the code and access the assignments from your browser. 
  <p align="center">
-  <a href = "https://beta.deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com/oscar-defelice/DSAcademy-lectures"> <img height="20" src="https://deepnote.com/buttons/launch-in-deepnote-small.svg"> </a>
+  <a href = "https://beta.deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com/oscar-defelice/DSAcademy-lectures" target="_blank"> <img height="20" src="https://deepnote.com/buttons/launch-in-deepnote-small.svg"> </a>
 </p>
   
 ## [Contents of lectures](https://oscar-defelice.github.io/DSAcademy-lectures/Lectures_src)
