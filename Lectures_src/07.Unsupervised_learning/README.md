@@ -20,7 +20,7 @@ In is an unsupervised learning task because, unlike supervised learning (like pr
 There are several example of clustering techniques, based on distance or on point density in space. We are going to present two examples:
 
 1. [$k$-means](https://github.com/oscar-defelice/DSAcademy-lectures/tree/master/Lectures_src/07.Unsupervised_learning/01.Clustering.ipynb)
-2. [DBSCAN](https://github.com/oscar-defelice/DSAcademy-lectures/tree/master/Lectures_src/07.Unsupervised_learning/02.DBSCAN.ipynb)
+2. [DBSCAN](https://github.com/oscar-defelice/DSAcademy-lectures/tree/master/Lectures_src/07.Unsupervised_learning/02.DBScan.ipynb)
 
 <p align="center">
     <img width="600" src="https://codingwithmax.com/wp-content/uploads/2019/11/cluster-phobic-comic.png">
