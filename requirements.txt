@@ -1,6 +1,6 @@
 pandas==1.3.5
 matplotlib==3.5.2
-scikit-learn==1.1.1
+scikit-learn==1.1.3
 scikit-image==0.19.3
 statsmodels==0.13.2
 pydotplus==2.0.2
