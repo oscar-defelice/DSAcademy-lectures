@@ -10,6 +10,7 @@ This is somehow a _prequel_ of the other modules on
 2. [Deep Learning](https://oscar-defelice.github.io/DeepLearning-lectures) 🦾
 3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
 4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 👀️
+5. [Recommender Systems](https://oscar-defelice.github.io/Recommender-Systems-Course) 🚀
 
 ## Install requirements
 
