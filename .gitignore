@@ -3,4 +3,4 @@ __pycache__
 .ipynb_checkpoints
 .DS_Store
 data/
-*model.joblib
+*.joblib
