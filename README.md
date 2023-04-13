@@ -84,7 +84,7 @@ If you like these lectures, consider to buy [me a coffee ☕️ ](https://github
 ---
 
 <p align="left">
-<a href = "https://hub.docker.com/repository/docker/oscardefelice/deep-learning-lectures/general"> <img src="https://img.shields.io/docker/automated/oscardefelice/deep-learning-lectures?style=social"> </a>&nbsp;
-<a href = "https://github.com/oscar-defelice/DeepLearning-lectures"> <img src="https://img.shields.io/github/stars/oscar-defelice/DeepLearning-lectures?style=social"> </a>&nbsp;
+<a href = "https://hub.docker.com/repository/docker/oscardefelice/DSAcademy-lectures/general"> <img src="https://img.shields.io/docker/automated/oscardefelice/DSAcademy-lectures?style=social"> </a>&nbsp;
+<a href = "https://github.com/oscar-defelice/DSAcademy-lectures"> <img src="https://img.shields.io/github/stars/oscar-defelice/DSAcademy-lectures?style=social"> </a>&nbsp;
 <a href = "https://oscar-defelice.github.io/DeepLearning-lectures"> <img src="https://img.shields.io/badge/website-up-informational?style=social"> </a>&nbsp;
 </p>
